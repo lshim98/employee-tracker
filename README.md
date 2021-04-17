@@ -47,7 +47,7 @@ So that I can organize and plan my businesses and events
 Command line app that allows you to view & add employees, departments, and roles within the database.
 
 ## Installation
-Clone this repo to your local computer, install necessary dependencies, and run the app by typing "npm start" in your terminal.
+Clone this Github Repository to your local files on your computer, install all the needed dependencies, and run the app by typing "npm start" in your terminal.
 
 ## License
 
