@@ -6,7 +6,7 @@ Developers are often tasked with creating interfaces that make it easy for non-d
 
 Design the following database schema containing three tables:
 
-![Database Schema](Assets/schema.png)
+<img width="736" alt="schema" src="https://user-images.githubusercontent.com/76062539/115100623-c7c58780-9f0b-11eb-90ee-18cbf8248b54.png">
 
 * **department**:
 
@@ -43,7 +43,7 @@ So that I can organize and plan my businesses and events
 
 * Use [console.table](https://www.npmjs.com/package/console.table) to print MySQL rows to the console. There is a built-in version of `console.table`, but the NPM package formats the data a little better for our purposes.
 
-![Employee Tracker](Assets/employee-tracker.gif)
+![employee-tracker](https://user-images.githubusercontent.com/76062539/115100630-d2801c80-9f0b-11eb-8679-fc069668e663.gif)
 
 ### Hints
 
