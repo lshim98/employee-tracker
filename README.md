@@ -43,12 +43,6 @@ So that I can organize and plan my businesses and events
 
 ![employee-tracker](https://user-images.githubusercontent.com/76062539/115100630-d2801c80-9f0b-11eb-8679-fc069668e663.gif)
 
-### Hints
-
-* You may wish to include a `seed.sql` file to pre-populate your database. This will make development of individual features much easier.
-
-* Check out [SQL Bolt](https://sqlbolt.com/) for some extra MySQL help.
-
 ## Description
 Command line app that allows you to view & add employees, departments, and roles within the database.
 
