@@ -54,3 +54,7 @@ Command line app that allows you to view & add employees, departments, and roles
 
 ## Installation
 Clone this repo to your local computer, install necessary dependencies, and run the app by typing "npm start" in your terminal.
+
+## License
+
+License: MIT
